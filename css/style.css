@@ -1,0 +1,19 @@
+.aim{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.aim2{
+    background-color: chocolate;
+}
+
+.sub{
+    float:left;
+    width: 33.3333333%;
+    background-color: blueviolet;
+}
+
+
+.clearfix{
+    clear:left;
+}
